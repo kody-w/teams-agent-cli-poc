@@ -1,0 +1,9 @@
+# Microsoft Teams App Port
+PORT=3000
+
+# Azure Function Configuration
+AZURE_FUNCTION_URL=https://YOURAPIULR.azurewebsites.net/api/YOURAPIENDPOINT
+FUNCTION_KEY=YOUR_FUNCTION_KEY_HERE
+
+# Note: Get your function key from Azure Portal
+# Navigate to your Function App > Functions > YourFunction > Function Keys
